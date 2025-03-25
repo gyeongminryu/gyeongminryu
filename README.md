@@ -28,4 +28,7 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    
+
+
+**프로그래머스 코테 풀이 진행 내역**
+![Programmers Badge](https://raw.githubusercontent.com/gyeongminryu/Programmers_Badge_Generator/main/result/result.svg) 
