@@ -30,5 +30,5 @@
     </div>
 
 
-**프로그래머스 코테 풀이 진행 내역**
+**프로그래머스 코테 풀이 진행 내역**</br>
 ![Programmers Badge](https://raw.githubusercontent.com/gyeongminryu/Programmers_Badge_Generator/main/result/result.svg) 
